@@ -2,7 +2,7 @@ CXX=g++
 CXXLAGS= -O3 -Wall
  
 
-CLINK=-lm
+CLINK=-ltag
 #Makro CLINK zawiera opcje linkera.
 SOURCES=\
 	main.cpp \
